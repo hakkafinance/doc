@@ -2,7 +2,7 @@
 
 | Name | Reward | Proof of Work |
 | -------- | -------- | -------- |
-| Mr. Kristof     | 30,000     | https://www.youtube.com/user/kristoffer1223  |
+| Mr. Kristof     | 30,000     |  https://youtu.be/l5yipvQwPAg; https://youtu.be/LWMuKDchjmo; https://youtu.be/rCJH5kgelYM; https://youtu.be/iWaamiyB3Yc; https://youtu.be/5yQSpm7VL8w |
 | Konstatin     | 10,000     |  https://docs.google.com/document/d/1BQi-BAiVMbosYKJBdEkU6B8vHbpYsiC6dJ1BcR3oBaw/edit ​​(BHS white paper); https://docs.google.com/document/d/1LtHvsAtBcIrTXP80Vt4GmHDllB-Jfzf0ZY5KUJUdoXo/edit ​​(transparancy report) ;https://docs.google.com/document/d/1clMOPvzEKk8ExDwtgnqcWSMpFmhMCnUecrlf0fCOQTc/edit# ​​(Reasons why you should buy 3F Mutual Insurance) |
 | Winter     | 3,000     |  Telegram Stickers |
 | LM     | 10,000     | Assist in answering questions in the telegram channel & launching on European wallet: Delta. |
