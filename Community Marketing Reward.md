@@ -10,3 +10,6 @@
 | Invisible B     | 10,000     | Which pool should you choose to farm Hakka: https://youtu.be/oODpHRXZvRs; Clarify the fud about Hakka from 6:00 why Hakka need to postpone the launch of 3F Mutual: https://youtu.be/qHGKsYNAP6g; Introduce Pool 4 - launching 3F Mutual: https://youtu.be/Q5lCLqN6wyo; Listing down all the benefit of 3 player ( share holder, insurance buyer, hakka token holder) in 3F Mutal: https://youtu.be/SDLyyDl3ks8 |
 | Fedelia     |10,000     | https://t.me/hakkafinancesp (Spanish Group)  |
 
+# Community Marketing Reward v2
+| Hemilly     | 10,000     | Hakka Finance Brasil 247 ppl: https://t.me/HakkafinanceFR   |
+| Crypto Julien     | 10,000     | Hakka Finance FRANCE 599 ppl: https://t.me/hakkafinancebr |
