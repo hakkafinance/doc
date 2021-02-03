@@ -11,5 +11,7 @@
 | Fedelia     |10,000     | https://t.me/hakkafinancesp (Spanish Group)  |
 
 # Community Marketing Reward v2
+| Name | Reward | Proof of Work |
+| -------- | -------- | -------- |
 | Hemilly     | 10,000     | Hakka Finance Brasil 247 ppl: https://t.me/HakkafinanceFR   |
 | Crypto Julien     | 10,000     | Hakka Finance FRANCE 599 ppl: https://t.me/hakkafinancebr |
