@@ -15,3 +15,8 @@
 | -------- | -------- | -------- |
 | Hemilly     | 10,000     | Hakka Finance Brasil 247 ppl: https://t.me/HakkafinanceFR   |
 | Crypto Julien     | 10,000     | Hakka Finance FRANCE 599 ppl: https://t.me/hakkafinancebr |
+
+# Community Marketing Reward v3
+| Name | Reward | Proof of Work |
+| -------- | -------- | -------- |
+| Pennn     | 10,000     | Hakka Ambassador   |
