@@ -25,3 +25,5 @@
 | Name | Reward | Proof of Work |
 | -------- | -------- | -------- |
 | Zel     | 10,000     | Hakka Finance Philippines 1299 ppl: https://t.me/Hakkafinance_Philippines   |
+| Pennn   | 10,000     | Hakka Ambassador |
+| Yashin  | 500,000    | MultiSig Keyholder |
