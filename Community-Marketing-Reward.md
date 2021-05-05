@@ -20,3 +20,8 @@
 | Name | Reward | Proof of Work |
 | -------- | -------- | -------- |
 | Pennn     | 10,000     | Hakka Ambassador   |
+
+# Community Marketing Reward v4
+| Name | Reward | Proof of Work |
+| -------- | -------- | -------- |
+| Zel     | 10,000     | Hakka Finance Philippines 1299 ppl: https://t.me/Hakkafinance_Philippines   |
