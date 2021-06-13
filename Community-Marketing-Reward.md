@@ -27,3 +27,13 @@
 | Zel     | 10,000     | Hakka Finance Philippines 1299 ppl: https://t.me/Hakkafinance_Philippines   |
 | Pennn   | 10,000     | Hakka Ambassador |
 | Yashin  | 500,000    | Multisig Keyholder |
+
+# Community Marketing Reward v5
+| Name           | Reward   | Proof of Work                                                             |
+| -------------- | -------- | ------------------------------------------------------------------------- |
+| Coin98 Labs    | 100,000  | Asist in building new official website                                    |
+| Pennn          | 10,000   | Hakka Ambassador                                                          |
+| Hama           | 10,000   | Hakka Finance Japan 1343 ppl: https://t.me/Hakkafinancejp                 |
+| Crypto Fedelia | 10,000   | Hakka Finance Spanish 1311 ppl: https://t.me/hakkafinancesp               |
+| Crypto Julien  | 10,000   | Hakka Finance France 1223 ppl: https://t.me/HakkafinanceFR                |
+| Zel            | 10,000   | Hakka Finance Philippines 1547 ppl: https://t.me/Hakkafinance_Philippines |
